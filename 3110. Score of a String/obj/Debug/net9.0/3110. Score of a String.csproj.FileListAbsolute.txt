@@ -1,0 +1,15 @@
+D:\Collection-of-issues\3110. Score of a String\bin\Debug\net9.0\3110. Score of a String.exe
+D:\Collection-of-issues\3110. Score of a String\bin\Debug\net9.0\3110. Score of a String.deps.json
+D:\Collection-of-issues\3110. Score of a String\bin\Debug\net9.0\3110. Score of a String.runtimeconfig.json
+D:\Collection-of-issues\3110. Score of a String\bin\Debug\net9.0\3110. Score of a String.dll
+D:\Collection-of-issues\3110. Score of a String\bin\Debug\net9.0\3110. Score of a String.pdb
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\3110. Score of a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\3110. Score of a String.AssemblyInfoInputs.cache
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\3110. Score of a String.AssemblyInfo.cs
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\3110. Score of a String.csproj.CoreCompileInputs.cache
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\3110. Score of a String.sourcelink.json
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\3110. Score of a String.dll
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\refint\3110. Score of a String.dll
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\3110. Score of a String.pdb
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\3110. Score of a String.genruntimeconfig.cache
+D:\Collection-of-issues\3110. Score of a String\obj\Debug\net9.0\ref\3110. Score of a String.dll
