@@ -1,0 +1,15 @@
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\bin\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.exe
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\bin\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.deps.json
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\bin\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.runtimeconfig.json
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\bin\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.dll
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\bin\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.pdb
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.AssemblyInfoInputs.cache
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.AssemblyInfo.cs
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.csproj.CoreCompileInputs.cache
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.sourcelink.json
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.dll
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\refint\3300. Minimum Element After Replacement With Digit Sum.dll
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.pdb
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\3300. Minimum Element After Replacement With Digit Sum.genruntimeconfig.cache
+D:\Collection-of-issues\3300. Minimum Element After Replacement With Digit Sum\obj\Debug\net9.0\ref\3300. Minimum Element After Replacement With Digit Sum.dll

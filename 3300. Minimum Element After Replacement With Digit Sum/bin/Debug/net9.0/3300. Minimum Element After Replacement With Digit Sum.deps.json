@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "3300. Minimum Element After Replacement With Digit Sum/1.0.0": {
+        "runtime": {
+          "3300. Minimum Element After Replacement With Digit Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3300. Minimum Element After Replacement With Digit Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
